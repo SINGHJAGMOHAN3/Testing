@@ -33,10 +33,7 @@ public class Variables {
 		{
 			System.out.println("Pallindrome hurrah!");
 		}
-		else
-		{
-			System.out.println("Fuck you");
-		}
+		
 
 }
 }
